@@ -1,7 +1,7 @@
 # Hi, I'm Farida 👋
 
 Welcome to my GitHub profile!  
-## A Research Metallurgist 
+## A Junior Data Analyst 
 
 ---
 
