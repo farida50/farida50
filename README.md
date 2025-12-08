@@ -18,7 +18,7 @@ Hi! I'm **Farida**, a passionate Junior Data Analyst. I love transforming raw da
 ---
 
 ## What I Can Do 
-- Analyze complex datasets to uncover trends and insights
+- Analyze datasets to uncover trends and insights
 - Build interactive dashboards for business intelligence
 - Design simple, responsive, and accessible web pages
 
